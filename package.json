@@ -1,0 +1,19 @@
+{
+  "name": "node-spider-study",
+  "version": "1.0.0",
+  "description": "个人学习的记录笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "author": "zangqingan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.8.3",
+    "mysql": "^2.18.1",
+    "puppeteer": "^3.2.0"
+  }
+}
